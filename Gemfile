@@ -11,6 +11,7 @@ gem 'webpacker', '~> 4.0.7'
 gem 'turbolinks', '~> 5.2.0'
 gem 'jbuilder', '~> 2.10.0'
 gem 'bootsnap', '~> 1.4.6', require: false
+gem 'yard', '~> 0.9.26'
 
 # gem 'redis', '~> 4.0'
 # gem 'bcrypt', '~> 3.1.7'
