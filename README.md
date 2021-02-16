@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Data Model
+
+![[Data Model for the Toy App][datamodel]][datamodel]
+
+
+<!-- Links -->
+
+[datamodel]: https://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/jwarner112/ler6tbd-app/master/app/assets/plantuml/datamodel.pu
