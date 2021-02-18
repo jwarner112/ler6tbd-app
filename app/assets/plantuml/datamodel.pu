@@ -5,6 +5,11 @@ class User {
 + email : string
 }
 
-' Foo::field1 --> Bar::field3 : foo
-' Foo::field2 --> Bar::field4 : bar
+class Post {
++ id : integer
++ content : string
+}
+
+User ||-|{ Post
+
 @enduml
