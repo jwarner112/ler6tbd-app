@@ -22,6 +22,7 @@ group :development, :test do
 end
 
 group :development do
+  gem 'solargraph', '~> 0.40.3'
   gem 'pry'
   gem 'rails-erd'
   gem 'web-console', '~> 4.1.0'
